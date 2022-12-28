@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Nunito:wght@600&display=swap');
+ 
+*{margin: 0;
+padding: 0;
+}
+
+/* area marca */
+    /* fondo */
+    .marca_fondo-tamaño {
+    height: auto;}
+
+    .marca_fondo-color {
+    background-color: #fccbca;}
+
+    .marca_fondo-margen {
+    margin-bottom: 0;}
+    /* fondo */
+
+    /* titulo */
+    .marca_titulo-posicion {
+    text-align: center;
+    margin-left: 10rem;}
+
+    .marca_titulo_font {
+    color: rgb(0, 0, 0); 
+    font-family: 'Dancing Script', serif; 
+    font-size: 10em;;}
+    /* titulo */
+
+    /* logo */
+    .marca_logo-posicion {
+    padding-top: 10%;
+    padding-left: 0%;}
+    /* logo */
+
+    /* nav */
+    .marca_nav-font {
+    color: black;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;}
+
+    .marca_nav-posicion {
+    padding-left: 2%;}
+
+    .marca_nav-margen {
+    margin-bottom: 2%;}
+    /* nav */
+/* area marca fin */
+
+/* secciones */
+.secciones_titulo-font {
+    color: rgb(0, 0, 0); 
+    font-family: 'Dancing Script', serif; 
+    font-size: 70px; ;}
+
+.secciones_fondo-color {
+    background-color: #fcb5b4 ;}
+
+.secciones_img-tamaño {
+    max-width: 23%;
+    max-height: 23%;}
+
+.secciones_fondo-margen {
+    margin-top: 5rem;
+    margin-bottom: 2%;}
+/* secciones fin */
+
+/* footer */
+.footer {
+    background-color: black;color: rgb(255, 255, 255);}
+    
+.footer_icons-margin {margin: 0.5rem;}
+
+.footer_elements {
+    margin-top: 2%;
+    margin-bottom: 2%;}
+
+.footer_elements-nav {margin-right: 15rem;}
+
+.footer_text-position {width: 30%;
+height: 100%;
+margin-left: 2rem;}
+
+.footer_icons-position {width: 30%;
+    height: 100%;
+    padding-left: 5rem;}
+/* footer */
+
+/* nav filtros */
+.productos-nav {margin: 2rem;
+margin-right: 5rem;
+color: rgb(250, 114, 114);}
+/* fin nav filtros */
+
+/* boton */
+.btn-primary {background-color: rgb(224, 124, 124);
+color: black;}
+
+
+
+
+
+
+/* flex */
+.marca_posicion {display: flex;
+flex-direction: row;}
+
+.flex-container {display: flex;
+    flex-direction: row;
+}
+
